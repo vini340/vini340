@@ -140,13 +140,6 @@ For now, I'm focusing mainly on Java and backend development while continuing to
 
 > These progress bars are just a fun way to show my current learning progress. 😄
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vini340&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini340&layout=compact&theme=tokyonight"/>
-</p>
-
 ## ⭐
 
 If you want, take a look at my repositories and follow my progress.
