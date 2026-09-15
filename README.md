@@ -68,22 +68,6 @@ My goal is to keep strengthening my fundamentals and gradually move into more ad
 
 ## 🚀 Projects
 
-### ☕ Guessing Game — Java
-
-A simple guessing game I created while learning Java.
-
-The project started simple, and I kept adding features as I learned new concepts.
-
-I practiced things like:
-
-* `Scanner`
-* `Random`
-* `if / else`
-* `while`
-* Methods
-* Attempt counter
-* Replay system
-
 ### 🚗 KadetECU
 
 A personal project that mixes **programming and cars**.
@@ -92,19 +76,6 @@ I'm studying automotive ECUs and exploring what programming can be used for in t
 
 🚧 Project in development.
 
-### 📷 PC Control Using Hand Gestures
-
-A project idea using a webcam to recognize hand gestures and control computer functions.
-
-The goal is to learn more about:
-
-* Computer vision
-* Gesture recognition
-* Webcam interaction
-* Automation
-* Programming
-
-🚧 Project in development.
 
 ## 🛠️ Tools
 
